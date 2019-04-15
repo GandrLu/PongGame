@@ -6,3 +6,5 @@ A basic pong game, running in the console
 2) Run with Windows-Debugger or build and run exe
 
 -> Works on Windows 10, probably not on Linux or other non Windows systems.
+
+![pong image](https://github.com/GandrLu/PongGame/blob/master/pong.PNG "pong image")
